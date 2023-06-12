@@ -5,8 +5,13 @@ using namespace std;
 int main ()
 
 {
-    
-   
+    // main unchanged //
+    char PackageOwned;
+    int CostOfPackageOwned = 0;
+    int JamsIncluded =0;
+    int TotalOfJamsPurchased =0;
+    int CostOfAdditionalJamsPurchased =0;
+    int totalCost=0;
     
     
     cout << " Enter Package you own \n";
@@ -69,3 +74,4 @@ int main ()
     
     
 }
+
